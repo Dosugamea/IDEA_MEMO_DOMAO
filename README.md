@@ -1,0 +1,2 @@
+# IDEA_MEMO_DOMAO
+My Idea Memo
