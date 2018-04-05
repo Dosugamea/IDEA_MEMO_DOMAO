@@ -1,6 +1,6 @@
 # 使用するプログラム Program to use
 
-## Pattern 1
+## Plan 1
 - Jubeat Analyser (HSP)
 - キーボード入力を送るArduinoプログラム (C?)
   - Arduino Program to send key input
@@ -10,7 +10,7 @@
   - ライブラリ library
     - https://github.com/arduino12/ttp229-arduino
 
-## Pattern 2
+## Plan 2
 - Jubeat Analyser (same as ↑)
 - キーボード入力を送るArduinoプログラム (same as ↑)
 - 画面の状態に応じてArduinoにシリアル通信で指示を出すプログラム(Java?)
